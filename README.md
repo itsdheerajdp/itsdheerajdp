@@ -1,4 +1,4 @@
-![logo](https://github.com/itsdheerajdp/itsdheerajdp/blob/main/Github%20Banner.png)
+![logo]([https://github.com/itsdheerajdp/itsdheerajdp/blob/main/Github%20Banner.png](https://github.com/itsdheerajdp/itsdheerajdp/blob/main/Hii%20%2C%20I'm%20Dheeraj.png))
 <h1 align="center">Hi 👋, I'm Dheeraj Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
